@@ -1,0 +1,12 @@
+{
+    "name": "batouy/mybox",
+    "description": "My Box Rulez",
+    "type": "library",
+    "require": {
+        "php": ">=7.2.0",
+        "konekt/concord": ">=1.10.0"
+    },
+    "autoload": {
+        "psr-4": { "Batouy\\MyBox\\": "src/" }
+    }
+}
